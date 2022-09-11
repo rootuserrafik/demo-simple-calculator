@@ -1,3 +1,4 @@
+import { ACTIONS } from './Action';
 import styled from "styled-components";
 
 const CalBtn = styled.button`
@@ -10,9 +11,9 @@ const CalBtn = styled.button`
     }
 `;
 
-function Button({actionName}) {
+function Button({ dispatch, actionName}) {
   return (
-    <CalBtn>
+    <CalBtn onClick={() => dispatch({ type: ACTIONS.ADD_DIGIT, payload: {actionName} })}>
         {actionName}
     </CalBtn>
   )

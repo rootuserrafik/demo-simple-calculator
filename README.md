@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Simple Calculator with React
 
 In the project directory, you can run:
 
@@ -11,4 +11,3 @@ In the project directory, you can run:
 
 ## We Used!
 - [styled-components](https://styled-components.com/)
-- [material-ui](https://mui.com/)
