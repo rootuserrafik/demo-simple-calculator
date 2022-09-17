@@ -1,7 +1,7 @@
 # Simple Calculator with React
 
 ### Demo Screenshot
-
+<img title="Simple Calculator Screenshot" alt="Screenshot Simple Calculator" src="https://github.com/rootuserrafik/demo-simple-calculator/blob/main/Screenshot_20220918_002710.png">
 
 In the project directory, you can run:
 
